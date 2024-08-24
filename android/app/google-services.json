@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "127424649193",
+    "project_id": "tastee-7dbef",
+    "storage_bucket": "tastee-7dbef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127424649193:android:9d0a5f559ccb8dbdf21d78",
+        "android_client_info": {
+          "package_name": "com.Bilal.food_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127424649193-8aq44qo23anp6j25e132ae2j938m68ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPyR1iezlpSRpjLji8EyMwSjJLK9kAu3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127424649193-8aq44qo23anp6j25e132ae2j938m68ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
